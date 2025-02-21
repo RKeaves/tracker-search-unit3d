@@ -6,13 +6,13 @@ This tampermonkey script enhances torrent and request pages on supported UNIT3D 
 
 - **Automatic IMDb ID Extraction:** Detects an IMDb link on the page and extracts the corresponding IMDb number.
 - **Custom Search Links:** Generates search links for several UNIT3D-based sites:
-  - **PSS:** 
-  - **PTP:** 
-  - **ANT:** 
-  - **HAWK:** 
-  - **BHD:** 
-  - **BLU:** 
-  - **FNP:** 
+  - **PSS** 
+  - **PTP** 
+  - **ANT** 
+  - **HAWK** 
+  - **BHD** 
+  - **BLU** 
+  - **FNP** 
 - **Easy Navigation:** Inserts the links into the metadata section for quick access without leaving the current page.
 
 ## Installation
