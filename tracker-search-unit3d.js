@@ -2,7 +2,7 @@
 // @name        tracker-search-unit3d
 // @version     1.1
 // @namespace   https://github.com/rkeaves
-// @description This Tampermonkey script enhances torrent and request pages on supported UNIT3D based sites by automatically adding search links to other related sites. The script extracts the IMDb ID from the page and creates clickable links for quick searches on various torrent sites.
+// @description This Tampermonkey script enhances torrent and request pages on supported UNIT3D based sites by automatically adding search links to other related sites.
 // @match       https://privatesilverscreen.cc/torrents/*
 // @match       https://privatesilverscreen.cc/requests/*
 // @match       https://onlyencodes.cc/torrents/*
