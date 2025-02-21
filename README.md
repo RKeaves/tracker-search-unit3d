@@ -1,5 +1,3 @@
-# Search Other Sites to UNIT3D Based Sites
-
 This tampermonkey script enhances torrent and request pages on supported UNIT3D based sites by automatically adding search links to other related sites. The script extracts the IMDb ID from the page and creates clickable links for quick searches on various torrent sites.
 
 ## Supported URLs
